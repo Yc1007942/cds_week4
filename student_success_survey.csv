@@ -1,0 +1,241 @@
+student_uid,pillar,current_term,cgpa,prereq_ct_grade,used_pytorch_tensorflow,used_big_data_tools,diag_python_mod_answer,diag_pvalue_answer,diag_pca_answer,grit_distracted_by_new_ideas,grit_setbacks_dont_discourage_me,grit_short_term_obsession_then_loss,grit_i_am_a_hard_worker,grit_i_change_goals,grit_i_finish_what_i_begin,cse_debug_python_without_help,cse_learn_new_ml_library,cse_explain_model_theory,cse_interpret_complex_viz,hours_per_week_planned,commute_minutes_daily,team_formed_for_final_project,laptop_or_cloud_ready,final_course_score
+STU_001,ASD,Term 7,4.62,A/A+,Yes,No,Error,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,3,2,4,3,4,3,5,3,3,7,21,Yes,Yes,83.0
+STU_002,ASD,Term 6,4.0,A-,No,Yes,2,Statistically significant (reject H0),Integration by parts,4,3,4,3,3,3,4,3,3,4,6,63,No,Yes,65.9
+STU_003,ASD,Term 6,4.13,B+,No,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,4,2,2,4,1,5,4,4,5,8,60,Yes,Yes,80.3
+STU_004,ISTD,Term 6,4.69,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,2,4,2,5,3,3,4,3,2,3,31,Yes,Yes,71.1
+STU_005,ISTD,Term 7,4.63,A/A+,Yes,No,0.66,96% probability H0 is true,Finding eigenvalues and eigenvectors,2,4,4,3,2,2,4,4,4,5,7,15,Yes,Yes,68.2
+STU_006,ESD,Term 7,4.05,B,Yes,Yes,0.66,Not significant (fail to reject H0),Calculating the derivative,3,5,3,2,3,2,3,5,4,4,3,69,Yes,Yes,44.9
+STU_007,DAI,Term 7,4.09,A-,Yes,No,Error,Experiment failed,Finding eigenvalues and eigenvectors,2,2,3,5,1,5,3,4,4,4,6,33,Yes,No,75.7
+STU_008,ISTD,Term 6,4.4,A/A+,No,No,2,Statistically significant (reject H0),Calculating the derivative,2,3,4,3,2,5,4,4,5,2,4,46,No,Yes,74.1
+STU_009,ESD,Term 8,4.12,A/A+,Yes,No,2,96% probability H0 is true,Integration by parts,1,3,1,5,2,3,4,3,5,2,14,26,Yes,Yes,65.7
+STU_010,ISTD,Term 6,4.03,A-,Yes,Yes,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,4,2,4,1,5,3,5,3,5,13,80,Yes,Yes,70.7
+STU_011,EPD,Term 6,4.28,A/A+,Yes,No,Error,Statistically significant (reject H0),Calculating the derivative,4,1,4,1,5,1,3,3,4,4,6,58,Yes,Yes,67.6
+STU_012,EPD,Term 7,4.22,B+,No,No,2,Statistically significant (reject H0),Binary tree traversal,2,4,2,3,2,4,4,5,3,3,9,28,Yes,Yes,75.1
+STU_013,ISTD,Term 6,5.01,A/A+,No,Yes,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,5,2,4,3,2,4,4,4,5,3,3,66,No,Yes,81.5
+STU_014,ASD,Term 6,4.28,A/A+,Yes,No,2,Statistically significant (reject H0),Integration by parts,2,3,1,3,1,3,3,2,4,2,5,49,No,Yes,81.3
+STU_015,EPD,Term 7,4.32,A/A+,No,Yes,2,Not significant (fail to reject H0),Calculating the derivative,4,3,4,4,5,2,3,4,5,4,3,72,Yes,Yes,70.8
+STU_016,ESD,Term 8,4.01,A-,No,No,0,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,4,4,2,4,1,4,4,3,3,3,8,17,Yes,No,62.1
+STU_017,ISTD,Term 8,3.94,B+,No,No,1,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,2,4,3,3,2,3,2,1,1,3,5,53,Yes,Yes,59.2
+STU_018,ESD,Term 7,4.03,A-,Yes,Yes,2,Experiment failed,Finding eigenvalues and eigenvectors,3,4,3,5,4,5,5,5,5,5,,23,Yes,Yes,74.2
+STU_019,EPD,Term 7,3.87,B,Yes,No,0.66,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,1,3,2,4,1,4,3,4,5,5,9,55,Yes,Yes,77.2
+STU_020,ESD,Term 7,3.38,B-,Yes,No,0.66,Not significant (fail to reject H0),Binary tree traversal,3,1,3,2,3,3,5,3,4,2,7,,No,Yes,57.0
+STU_021,ISTD,Term 8,4.02,A-,No,Yes,2,96% probability H0 is true,Calculating the derivative,5,1,3,2,5,1,2,3,4,3,0,25,No,Yes,54.1
+STU_022,DAI,Term 8,4.54,Exempted/Di,Yes,No,1,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,2,3,2,4,2,2,2,1,2,1,4,,Yes,Yes,66.5
+STU_023,DAI,Term 6,3.8,B-,No,No,2,Statistically significant (reject H0),Calculating the derivative,3,1,3,3,3,4,2,5,4,4,6,22,No,Yes,71.5
+STU_024,ESD,Term 6,4.69,A/A+,Yes,No,0,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,4,2,4,1,5,2,4,3,5,5,4,22,Yes,Yes,77.1
+STU_025,ESD,Term 6,,B,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,2,3,2,4,4,4,4,2,4,7,25,Yes,Yes,85.0
+STU_026,ISTD,Term 6,3.72,B,No,No,2,Statistically significant (reject H0),Calculating the derivative,4,4,2,2,3,3,3,3,3,3,6,6,No,Yes,65.3
+STU_027,ESD,Term 6,3.67,B,Yes,No,1,Experiment failed,Calculating the derivative,4,2,4,2,5,2,4,4,4,4,2,9,Yes,Yes,55.0
+STU_028,ISTD,Term 8,4.48,A/A+,No,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,3,3,3,2,2,3,4,2,4,4,75,No,Yes,75.0
+STU_029,EPD,Term 8,3.37,C+ or lower,Yes,Yes,1,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,3,2,3,4,4,2,3,3,3,2,3,49,No,Yes,57.9
+STU_030,ASD,Term 6,4.04,B,No,No,1,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,3,2,3,4,3,3,4,2,4,2,7,36,No,Yes,66.3
+STU_031,EPD,Term 6,3.23,B-,No,No,0.66,Statistically significant (reject H0),Integration by parts,2,4,3,3,3,3,4,3,2,3,8,8,No,Yes,57.2
+STU_032,ESD,Term 6,4.71,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,2,3,3,5,2,4,3,5,4,4,14,,Yes,Yes,100.0
+STU_033,Other,Term 6,4.43,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,2,5,1,2,4,3,5,3,3,2,7,32,Yes,Yes,88.0
+STU_034,DAI,Term 7,4.19,A/A+,No,Yes,2,Statistically significant (reject H0),Integration by parts,3,4,4,4,3,3,3,2,1,3,5,18,Yes,Yes,69.9
+STU_035,ISTD,Term 7,4.59,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,3,4,3,3,3,4,2,1,3,3,19,Yes,Yes,64.0
+STU_036,ESD,Term 6,4.16,B+,Yes,Yes,2,96% probability H0 is true,Binary tree traversal,4,2,3,3,5,3,2,3,3,4,6,63,No,Yes,66.9
+STU_037,ISTD,Term 7,4.57,A-,Yes,Yes,Error,Experiment failed,Finding eigenvalues and eigenvectors,4,3,3,3,3,4,4,5,4,5,6,31,Yes,Yes,79.7
+STU_038,ESD,Term 6,4.51,A/A+,No,Yes,2,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,4,5,3,3,5,2,4,2,4,3,5,65,No,Yes,82.7
+STU_039,EPD,Term 6,4.4,A/A+,Yes,No,Error,96% probability H0 is true,Binary tree traversal,4,2,4,2,4,2,4,3,3,1,,29,No,No,61.8
+STU_040,DAI,Term 6,,A-,No,Yes,0.66,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,4,4,4,2,4,5,5,4,4,8,60,No,Yes,70.3
+STU_041,ESD,Term 6,4.28,B+,No,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,3,2,4,4,2,4,2,4,4,3,8,44,Yes,No,75.3
+STU_042,ESD,Term 6,3.57,B,Yes,No,2,96% probability H0 is true,Integration by parts,3,2,5,2,5,2,3,3,5,4,5,34,Yes,Yes,54.9
+STU_043,ISTD,Term 7,3.43,Exempted/Di,No,No,0.66,Statistically significant (reject H0),Binary tree traversal,4,1,4,5,2,4,2,3,3,2,7,63,Yes,Yes,51.1
+STU_044,ESD,Term 7,4.25,A/A+,Yes,Yes,2,Not significant (fail to reject H0),Calculating the derivative,1,5,1,5,1,5,4,2,4,3,11,35,Yes,Yes,85.5
+STU_045,Other,Term 6,3.4,A-,No,No,2,Experiment failed,Integration by parts,3,4,4,2,3,4,3,3,3,2,7,41,Yes,Yes,60.4
+STU_046,ISTD,Term 6,4.05,A-,No,Yes,0,Statistically significant (reject H0),Calculating the derivative,4,3,4,3,2,2,5,4,5,4,8,38,Yes,No,63.0
+STU_047,ESD,Term 8,3.5,B-,No,No,0.66,96% probability H0 is true,Calculating the derivative,5,3,5,4,4,3,3,3,2,1,0,22,No,No,36.6
+STU_048,ASD,Term 7,4.37,A/A+,No,Yes,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,5,1,3,3,2,2,3,4,4,4,7,33,No,Yes,72.3
+STU_049,ISTD,Term 7,4.22,A/A+,Yes,Yes,2,Experiment failed,Calculating the derivative,2,3,3,1,3,2,3,4,5,5,6,13,No,Yes,70.3
+STU_050,Other,Term 7,5.07,A/A+,No,No,1,Statistically significant (reject H0),Integration by parts,4,3,3,2,2,2,3,5,2,5,8,42,No,No,87.2
+STU_051,ISTD,Term 8,4.21,A/A+,Yes,Yes,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,4,3,4,2,3,2,2,1,3,1,9,19,Yes,Yes,65.2
+STU_052,EPD,Term 6,3.79,B+,No,No,0.66,Statistically significant (reject H0),Integration by parts,3,3,4,3,4,3,5,2,5,4,9,50,No,No,69.8
+STU_053,ISTD,Term 8,5.3,A/A+,Yes,Yes,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,2,4,2,1,2,3,4,5,4,5,8,20,Yes,Yes,84.6
+STU_054,ESD,Term 6,4.02,A-,No,No,1,96% probability H0 is true,Calculating the derivative,4,3,4,3,3,3,4,4,3,5,8,17,Yes,Yes,66.1
+STU_055,DAI,Term 7,4.32,A/A+,No,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,5,2,3,3,2,4,4,3,4,3,9,23,No,Yes,100.0
+STU_056,ISTD,Term 6,4.88,A/A+,No,No,Error,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,1,4,2,5,1,4,3,4,3,6,85,Yes,Yes,83.2
+STU_057,ESD,Term 7,3.9,B+,Yes,Yes,Error,Statistically significant (reject H0),Binary tree traversal,2,3,3,2,4,3,4,3,4,3,10,,Yes,Yes,67.2
+STU_058,ISTD,Term 7,4.52,A/A+,Yes,No,2,Statistically significant (reject H0),Binary tree traversal,2,3,4,3,3,4,5,4,4,4,7,55,Yes,Yes,77.7
+STU_059,DAI,Term 6,4.55,A/A+,No,No,1,96% probability H0 is true,Calculating the derivative,5,1,4,2,5,1,4,5,4,4,2,48,Yes,Yes,60.1
+STU_060,DAI,Term 8,4.86,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,4,3,4,3,4,5,5,5,5,6,26,Yes,Yes,81.2
+STU_061,DAI,Term 8,4.23,A/A+,Yes,No,2,Statistically significant (reject H0),Binary tree traversal,2,5,1,5,3,3,5,5,4,5,12,44,No,Yes,93.6
+STU_062,ISTD,Term 6,4.63,A/A+,Yes,No,2,Statistically significant (reject H0),Binary tree traversal,3,3,1,3,3,4,5,2,3,4,6,53,Yes,Yes,80.2
+STU_063,ISTD,Term 6,4.56,A/A+,Yes,Yes,0.66,96% probability H0 is true,Binary tree traversal,5,2,3,1,3,3,5,5,3,4,5,24,Yes,Yes,68.0
+STU_064,ESD,Term 8,3.75,B+,No,No,Error,Not significant (fail to reject H0),Integration by parts,4,3,3,5,2,4,4,3,4,3,5,15,No,Yes,62.6
+STU_065,ISTD,Term 6,3.54,A-,No,Yes,0,Not significant (fail to reject H0),Integration by parts,3,4,3,1,3,3,2,4,4,4,4,44,No,Yes,68.7
+STU_066,ISTD,Term 7,3.31,B-,No,No,0,Statistically significant (reject H0),Integration by parts,3,5,3,5,2,4,2,3,5,1,7,88,Yes,Yes,62.7
+STU_067,EPD,Term 6,4.22,B+,No,No,2,96% probability H0 is true,Binary tree traversal,4,2,4,2,2,1,3,4,4,3,4,33,Yes,Yes,80.9
+STU_068,ISTD,Term 7,4.16,A-,No,No,2,Statistically significant (reject H0),Calculating the derivative,3,3,3,1,1,4,4,4,4,4,8,35,No,No,67.1
+STU_069,ESD,Term 6,4.66,A/A+,Yes,No,2,Statistically significant (reject H0),Calculating the derivative,3,3,3,3,3,3,3,2,4,5,6,70,Yes,Yes,88.9
+STU_070,ISTD,Term 6,4.95,A/A+,No,No,1,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,3,3,4,2,4,4,3,3,5,7,35,No,Yes,84.7
+STU_071,ISTD,Term 7,4.93,A/A+,Yes,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,3,3,3,3,2,5,5,4,5,4,8,49,No,Yes,63.5
+STU_072,ESD,Term 7,3.77,A-,Yes,No,0,Statistically significant (reject H0),Binary tree traversal,2,3,4,3,2,2,4,5,5,4,9,20,Yes,Yes,67.6
+STU_073,ISTD,Term 8,4.06,A/A+,No,No,2,Statistically significant (reject H0),Calculating the derivative,2,5,2,4,3,4,1,2,2,2,9,49,Yes,Yes,75.6
+STU_074,EPD,Term 7,4.04,B,No,No,0.66,96% probability H0 is true,Binary tree traversal,2,5,3,4,3,3,3,2,2,2,7,,Yes,Yes,62.0
+STU_075,ESD,Term 7,4.6,A/A+,Yes,No,2,Statistically significant (reject H0),Binary tree traversal,4,1,4,2,4,3,1,1,1,1,0,34,Yes,Yes,67.8
+STU_076,EPD,Term 6,4.39,A-,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,3,4,4,2,4,5,4,4,3,8,24,Yes,Yes,98.8
+STU_077,ISTD,Term 7,5.02,A/A+,Yes,No,2,Experiment failed,Finding eigenvalues and eigenvectors,2,2,4,4,2,1,5,3,3,4,4,20,Yes,Yes,90.5
+STU_078,ESD,Term 6,4.02,B+,Yes,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,1,2,2,4,4,5,3,3,2,3,8,16,No,Yes,73.0
+STU_079,ISTD,Term 8,5.3,A/A+,Yes,No,0.66,Experiment failed,Finding eigenvalues and eigenvectors,4,4,2,3,2,3,4,3,5,5,10,15,Yes,Yes,93.5
+STU_080,ISTD,Term 6,4.04,A/A+,No,No,0.66,Experiment failed,Binary tree traversal,3,2,3,2,5,3,2,3,2,3,6,,Yes,Yes,63.9
+STU_081,ASD,Term 7,4.73,A/A+,No,No,2,Statistically significant (reject H0),Binary tree traversal,2,3,4,5,2,3,4,4,5,4,5,9,Yes,Yes,75.2
+STU_082,EPD,Term 6,4.05,A-,No,Yes,Error,Experiment failed,Finding eigenvalues and eigenvectors,2,3,2,4,1,5,3,2,3,2,6,23,No,Yes,72.0
+STU_083,ESD,Term 6,4.47,A/A+,No,No,1,Not significant (fail to reject H0),Integration by parts,3,5,2,4,3,4,2,2,3,1,6,8,Yes,Yes,77.2
+STU_084,DAI,Term 6,4.83,A/A+,Yes,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,4,4,3,4,2,3,4,4,3,4,11,10,Yes,Yes,90.3
+STU_085,EPD,Term 6,3.24,B+,No,No,0,Experiment failed,Integration by parts,5,2,3,2,5,1,2,2,4,3,6,32,No,Yes,46.7
+STU_086,ESD,Term 8,3.34,C+ or lower,No,No,0.66,Statistically significant (reject H0),Calculating the derivative,4,2,4,2,2,2,2,1,2,1,4,65,Yes,Yes,56.3
+STU_087,ESD,Term 7,4.43,A/A+,Yes,No,0,Experiment failed,Finding eigenvalues and eigenvectors,1,4,4,4,3,5,4,3,5,2,7,101,Yes,Yes,72.5
+STU_088,ASD,Term 8,4.69,A/A+,Yes,No,2,Statistically significant (reject H0),Integration by parts,2,4,1,5,1,4,4,3,2,3,11,22,No,Yes,100.0
+STU_089,DAI,Term 7,4.23,A/A+,No,No,2,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,5,3,4,3,2,3,4,4,3,3,6,46,No,Yes,70.5
+STU_090,DAI,Term 7,4.55,A/A+,No,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,2,3,2,4,5,4,4,1,2,2,8,74,Yes,Yes,84.4
+STU_091,ESD,Term 6,4.17,A/A+,Yes,No,2,Experiment failed,Finding eigenvalues and eigenvectors,1,3,1,5,1,4,3,2,2,2,9,,Yes,No,78.2
+STU_092,ISTD,Term 7,4.03,A-,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,4,2,3,4,3,3,3,3,4,6,94,No,Yes,72.9
+STU_093,ESD,Term 6,3.31,B-,Yes,No,2,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,3,4,2,3,2,3,3,2,3,5,,65,Yes,Yes,67.4
+STU_094,ISTD,Term 6,4.0,A/A+,No,No,0.66,96% probability H0 is true,Finding eigenvalues and eigenvectors,3,4,1,4,2,5,3,2,3,3,7,57,Yes,Yes,57.7
+STU_095,ISTD,Term 6,4.36,A-,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,1,1,3,5,2,4,2,3,3,3,5,27,Yes,Yes,64.3
+STU_096,ESD,Term 7,3.94,Exempted/Di,No,Yes,0.66,Experiment failed,Calculating the derivative,1,4,2,4,4,4,3,3,5,5,9,45,No,Yes,78.0
+STU_097,ESD,Term 7,4.52,A-,Yes,Yes,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,4,2,2,2,3,3,4,4,4,5,4,33,Yes,Yes,74.6
+STU_098,ESD,Term 6,3.76,A/A+,No,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,2,4,3,4,3,3,4,4,5,4,7,27,Yes,Yes,66.1
+STU_099,EPD,Term 6,3.83,A/A+,No,No,0.66,96% probability H0 is true,Binary tree traversal,2,4,2,1,2,2,3,2,3,2,7,84,Yes,No,51.1
+STU_100,ESD,Term 7,3.66,B+,No,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,3,3,3,3,2,2,4,2,1,3,5,25,No,Yes,66.8
+STU_101,ISTD,Term 6,3.43,B,No,No,1,Statistically significant (reject H0),Calculating the derivative,2,3,3,1,4,3,4,2,4,4,6,4,Yes,No,66.1
+STU_102,ESD,Term 7,4.36,A/A+,No,No,1,96% probability H0 is true,Calculating the derivative,2,5,4,3,1,2,1,3,1,2,9,11,Yes,Yes,69.8
+STU_103,ISTD,Term 7,5.02,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,4,2,2,3,3,5,5,4,5,2,2,No,Yes,71.1
+STU_104,ESD,Term 6,4.58,A/A+,No,No,0,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,2,5,1,5,3,1,4,3,2,3,59,No,Yes,72.0
+STU_105,ASD,Term 7,3.77,B,Yes,No,2,Experiment failed,Finding eigenvalues and eigenvectors,4,5,4,2,3,4,4,4,4,5,5,36,No,No,69.1
+STU_106,ISTD,Term 7,4.58,A/A+,Yes,No,2,Not significant (fail to reject H0),Binary tree traversal,3,5,4,3,5,2,3,3,3,3,6,50,Yes,Yes,68.8
+STU_107,ASD,Term 6,4.11,B+,Yes,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,4,3,5,1,4,1,4,5,5,4,7,48,No,Yes,66.6
+STU_108,ISTD,Term 7,5.05,A/A+,Yes,No,2,Statistically significant (reject H0),Binary tree traversal,4,4,3,1,4,3,4,3,4,5,5,66,No,Yes,73.9
+STU_109,ISTD,Term 6,4.26,Exempted/Di,Yes,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,2,3,2,4,5,3,4,3,4,3,6,7,Yes,Yes,61.9
+STU_110,ISTD,Term 7,,A-,No,No,2,Statistically significant (reject H0),Calculating the derivative,4,4,3,3,3,5,2,4,4,3,5,51,No,Yes,74.2
+STU_111,ISTD,Term 6,,A/A+,Yes,No,0,Not significant (fail to reject H0),Binary tree traversal,4,3,3,4,2,3,4,4,1,5,6,45,Yes,Yes,70.1
+STU_112,ISTD,Term 6,4.92,A/A+,No,No,2,Experiment failed,Finding eigenvalues and eigenvectors,2,3,1,3,2,3,5,4,5,4,10,76,Yes,Yes,94.7
+STU_113,Other,Term 8,4.49,A/A+,No,No,0,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,3,1,4,2,4,2,2,1,3,3,5,7,No,Yes,67.7
+STU_114,ISTD,Term 6,4.48,A/A+,No,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,3,3,4,2,1,2,3,4,2,12,53,No,Yes,78.7
+STU_115,ISTD,Term 6,4.75,A/A+,No,No,2,Statistically significant (reject H0),Integration by parts,3,3,3,2,2,3,2,4,2,3,9,35,No,Yes,81.5
+STU_116,ISTD,Term 6,4.22,A/A+,Yes,No,1,Statistically significant (reject H0),Calculating the derivative,4,3,3,2,4,1,2,3,3,3,8,18,Yes,Yes,60.5
+STU_117,EPD,Term 7,,A-,Yes,No,0,Statistically significant (reject H0),Calculating the derivative,3,4,4,3,5,3,2,2,1,1,7,78,Yes,No,49.4
+STU_118,ESD,Term 6,4.19,A/A+,No,Yes,0,Experiment failed,Binary tree traversal,1,4,2,4,3,5,4,4,3,3,8,55,No,Yes,64.2
+STU_119,DAI,Term 6,4.68,A/A+,No,No,0,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,3,3,1,4,2,4,4,4,3,7,28,No,No,71.2
+STU_120,ESD,Term 6,4.35,A/A+,No,Yes,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,2,3,3,4,3,1,2,1,2,6,38,No,Yes,78.3
+STU_121,ESD,Term 6,4.18,A-,No,No,2,Experiment failed,Integration by parts,2,3,2,2,3,2,1,2,1,3,5,109,Yes,Yes,58.2
+STU_122,EPD,Term 6,3.76,A-,Yes,No,Error,Not significant (fail to reject H0),Integration by parts,2,1,4,2,3,2,2,1,3,2,0,38,Yes,Yes,53.0
+STU_123,EPD,Term 8,3.75,B+,No,No,Error,Experiment failed,Finding eigenvalues and eigenvectors,2,4,3,4,2,3,1,1,1,4,6,37,Yes,Yes,64.5
+STU_124,ISTD,Term 6,4.74,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,2,5,1,5,4,3,5,3,4,1,72,Yes,Yes,84.0
+STU_125,ISTD,Term 6,4.42,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,1,3,3,3,2,3,4,4,3,1,7,25,Yes,Yes,84.7
+STU_126,ISTD,Term 6,4.01,B+,Yes,No,2,Statistically significant (reject H0),Calculating the derivative,1,4,1,4,4,3,5,3,5,4,11,31,Yes,Yes,80.7
+STU_127,DAI,Term 7,3.95,A-,Yes,No,0,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,2,2,3,4,1,4,4,4,3,3,,8,Yes,Yes,75.3
+STU_128,DAI,Term 6,3.82,A-,Yes,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,5,2,4,1,5,3,4,4,4,3,6,40,Yes,Yes,66.0
+STU_129,ISTD,Term 7,4.51,A/A+,No,Yes,0,Experiment failed,Integration by parts,2,3,1,5,3,4,2,3,3,2,11,26,No,Yes,70.3
+STU_130,ISTD,Term 6,4.19,A-,Yes,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,2,2,3,2,3,4,5,2,5,3,2,70,Yes,Yes,83.3
+STU_131,ESD,Term 7,4.73,A/A+,No,No,2,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,2,5,3,4,2,4,3,3,3,3,9,37,No,Yes,85.2
+STU_132,EPD,Term 6,3.44,B-,No,Yes,0.66,Not significant (fail to reject H0),Binary tree traversal,2,2,3,1,4,2,3,5,5,3,4,20,No,Yes,57.1
+STU_133,DAI,Term 6,4.09,B,No,No,Error,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,5,1,4,1,4,1,2,3,3,4,5,32,No,Yes,58.3
+STU_134,DAI,Term 6,4.19,A/A+,No,No,Error,Experiment failed,Calculating the derivative,1,5,2,4,2,4,3,2,3,3,13,42,Yes,Yes,74.7
+STU_135,ESD,Term 6,4.15,A-,No,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,1,4,1,5,1,4,5,3,3,6,15,No,Yes,65.9
+STU_136,ISTD,Term 7,,A/A+,Yes,No,0,96% probability H0 is true,Finding eigenvalues and eigenvectors,3,4,3,2,4,4,2,2,3,2,7,23,Yes,Yes,66.3
+STU_137,ESD,Term 6,3.79,A-,Yes,No,2,96% probability H0 is true,Integration by parts,3,5,1,5,1,5,1,3,2,1,11,20,Yes,Yes,70.3
+STU_138,DAI,Term 7,4.11,A-,No,No,2,Statistically significant (reject H0),Binary tree traversal,4,3,3,5,3,3,4,4,4,5,8,25,No,Yes,74.8
+STU_139,DAI,Term 7,3.87,A-,Yes,No,1,Not significant (fail to reject H0),Binary tree traversal,5,3,3,4,2,3,4,3,4,3,11,5,Yes,No,66.7
+STU_140,EPD,Term 6,4.71,A/A+,Yes,No,1,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,1,2,2,1,5,2,2,3,3,6,,No,Yes,83.1
+STU_141,EPD,Term 7,4.7,A/A+,No,No,2,Experiment failed,Finding eigenvalues and eigenvectors,3,4,3,3,1,3,4,4,3,2,9,38,Yes,Yes,78.1
+STU_142,ESD,Term 6,4.21,A/A+,Yes,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,4,2,4,2,4,1,4,4,5,5,7,18,Yes,Yes,71.0
+STU_143,ESD,Term 7,4.71,A/A+,No,No,2,Experiment failed,Integration by parts,2,3,1,5,1,3,3,2,1,3,6,79,Yes,Yes,75.1
+STU_144,ISTD,Term 7,3.87,B+,Yes,Yes,0.66,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,5,1,5,1,5,4,3,4,2,11,43,No,Yes,73.5
+STU_145,ISTD,Term 6,3.99,B+,Yes,No,Error,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,3,1,4,2,5,2,2,3,2,2,7,19,Yes,Yes,74.2
+STU_146,ASD,Term 6,4.58,A/A+,Yes,No,0.66,Experiment failed,Finding eigenvalues and eigenvectors,5,1,5,1,5,1,4,4,3,5,1,39,No,Yes,78.4
+STU_147,ESD,Term 8,4.06,A-,Yes,Yes,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,1,4,2,3,2,5,4,4,3,6,75,Yes,Yes,80.6
+STU_148,ESD,Term 6,4.48,A/A+,Yes,No,0.66,Statistically significant (reject H0),Binary tree traversal,2,5,1,3,1,5,4,4,3,3,7,42,Yes,Yes,80.6
+STU_149,ISTD,Term 7,4.31,A/A+,Yes,No,2,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,3,4,2,3,2,3,3,5,3,5,7,38,Yes,Yes,65.7
+STU_150,ESD,Term 6,5.3,A/A+,Yes,No,1,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,1,4,3,4,3,5,3,5,5,7,72,No,Yes,78.2
+STU_151,ESD,Term 6,3.36,B+,No,No,2,Not significant (fail to reject H0),Calculating the derivative,4,3,2,3,3,1,3,2,3,3,4,67,No,Yes,60.4
+STU_152,ASD,Term 7,4.16,A/A+,Yes,No,2,Statistically significant (reject H0),Integration by parts,3,3,3,3,4,5,2,2,5,5,5,34,Yes,Yes,66.2
+STU_153,ASD,Term 8,4.15,A-,No,No,0.66,Experiment failed,Integration by parts,4,2,2,2,4,3,2,2,3,3,3,33,Yes,No,57.2
+STU_154,ISTD,Term 6,4.27,A/A+,Yes,No,0,Experiment failed,Integration by parts,3,4,3,3,3,2,3,3,3,3,5,37,Yes,Yes,67.8
+STU_155,ASD,Term 7,4.66,A/A+,No,No,1,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,4,3,3,4,2,2,3,2,1,6,55,No,No,72.6
+STU_156,EPD,Term 7,4.24,A/A+,Yes,Yes,0,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,4,4,3,3,3,3,2,4,4,1,13,Yes,Yes,72.2
+STU_157,EPD,Term 6,,A-,No,No,Error,96% probability H0 is true,Integration by parts,1,4,4,3,3,4,2,2,2,4,6,6,No,No,56.8
+STU_158,ISTD,Term 6,4.23,A/A+,Yes,Yes,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,5,4,4,1,5,3,4,2,4,3,8,31,Yes,Yes,75.6
+STU_159,EPD,Term 7,4.13,A/A+,Yes,No,0.66,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,5,2,4,3,5,2,2,1,3,1,0,77,No,Yes,56.5
+STU_160,ISTD,Term 6,4.3,A-,Yes,No,1,Statistically significant (reject H0),Integration by parts,2,4,1,4,2,3,5,4,3,5,,93,No,Yes,78.4
+STU_161,ESD,Term 7,4.0,A-,No,Yes,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,4,5,4,2,3,4,3,4,4,5,9,49,No,Yes,75.7
+STU_162,EPD,Term 7,4.34,A/A+,Yes,No,2,Statistically significant (reject H0),Integration by parts,2,3,3,2,4,3,3,3,3,3,8,31,No,Yes,77.6
+STU_163,ISTD,Term 6,3.89,Exempted/Di,No,No,0,Not significant (fail to reject H0),Calculating the derivative,3,2,3,2,4,2,3,4,5,4,6,17,Yes,Yes,59.8
+STU_164,ISTD,Term 6,4.48,A/A+,Yes,Yes,2,Statistically significant (reject H0),Integration by parts,5,1,3,2,5,2,3,3,4,4,4,54,No,Yes,89.7
+STU_165,ISTD,Term 7,4.1,A-,Yes,Yes,0.66,Not significant (fail to reject H0),Binary tree traversal,2,3,2,3,2,5,2,2,3,3,6,69,Yes,Yes,66.9
+STU_166,EPD,Term 6,,A/A+,Yes,No,2,Experiment failed,Calculating the derivative,2,5,2,3,2,4,1,3,3,2,9,102,Yes,Yes,76.1
+STU_167,EPD,Term 6,4.52,A/A+,No,No,0,Statistically significant (reject H0),Calculating the derivative,4,3,3,3,1,3,2,2,1,2,9,43,No,No,72.9
+STU_168,ASD,Term 6,3.72,B+,No,No,0,Statistically significant (reject H0),Integration by parts,2,4,2,5,1,4,4,5,5,5,13,,Yes,Yes,78.5
+STU_169,ESD,Term 6,4.46,A-,Yes,No,2,96% probability H0 is true,Integration by parts,5,3,5,1,3,1,1,3,2,3,,21,No,Yes,54.8
+STU_170,ESD,Term 6,3.61,B,No,No,0.66,Not significant (fail to reject H0),Binary tree traversal,2,3,3,3,3,3,1,1,3,1,7,47,No,Yes,62.7
+STU_171,ISTD,Term 7,3.8,B,No,No,2,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,4,4,4,4,1,3,3,3,3,2,5,58,Yes,Yes,62.1
+STU_172,ASD,Term 6,4.41,A/A+,Yes,No,0,Statistically significant (reject H0),Calculating the derivative,4,3,3,1,5,2,2,2,2,3,2,31,Yes,Yes,78.0
+STU_173,ASD,Term 7,4.31,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,3,4,2,5,3,3,5,4,4,3,62,Yes,Yes,71.0
+STU_174,ASD,Term 6,3.98,B,Yes,No,2,Experiment failed,Calculating the derivative,4,2,3,3,3,2,4,3,5,4,8,26,Yes,Yes,74.4
+STU_175,ESD,Term 6,4.18,A/A+,Yes,No,Error,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,3,3,5,1,5,4,3,4,5,6,79,No,Yes,75.5
+STU_176,ESD,Term 6,4.49,A/A+,No,No,2,Experiment failed,Finding eigenvalues and eigenvectors,4,1,5,1,4,1,4,4,4,3,4,66,Yes,No,62.7
+STU_177,ESD,Term 6,4.67,A/A+,No,Yes,0.66,Not significant (fail to reject H0),Calculating the derivative,2,3,3,4,3,2,4,5,5,5,6,55,Yes,Yes,72.6
+STU_178,ASD,Term 6,3.78,A-,No,No,2,Not significant (fail to reject H0),Calculating the derivative,3,2,5,3,3,2,2,3,3,3,4,52,Yes,Yes,56.1
+STU_179,DAI,Term 6,4.47,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,5,3,4,2,5,2,2,2,2,6,26,No,Yes,73.4
+STU_180,ISTD,Term 6,4.68,A/A+,Yes,No,2,Experiment failed,Finding eigenvalues and eigenvectors,1,4,3,2,2,4,2,3,3,3,11,24,No,Yes,84.1
+STU_181,DAI,Term 7,4.66,A/A+,No,No,Error,96% probability H0 is true,Finding eigenvalues and eigenvectors,1,3,2,4,2,3,4,5,3,4,9,,Yes,Yes,84.4
+STU_182,DAI,Term 8,4.53,A-,No,No,2,Experiment failed,Finding eigenvalues and eigenvectors,2,3,5,1,4,3,5,5,3,3,2,58,No,Yes,85.8
+STU_183,ESD,Term 6,3.84,B+,No,Yes,2,Statistically significant (reject H0),Integration by parts,3,4,3,2,5,3,3,2,1,4,6,68,No,Yes,64.5
+STU_184,DAI,Term 7,4.99,A/A+,No,Yes,0,Statistically significant (reject H0),Binary tree traversal,3,4,3,3,2,5,5,4,4,3,,32,No,Yes,64.9
+STU_185,ISTD,Term 8,5.11,A/A+,No,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,2,3,4,3,1,3,5,5,5,3,12,42,Yes,Yes,100.0
+STU_186,EPD,Term 8,3.01,C+ or lower,No,No,0,96% probability H0 is true,Integration by parts,5,2,3,1,5,2,2,3,4,3,3,31,No,Yes,45.4
+STU_187,ISTD,Term 8,4.46,A-,No,No,1,Not significant (fail to reject H0),Integration by parts,2,3,2,3,3,4,5,4,1,2,9,32,No,No,62.9
+STU_188,ISTD,Term 8,3.49,Exempted/Di,No,No,1,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,2,5,3,5,1,5,3,2,1,2,6,13,Yes,Yes,67.6
+STU_189,EPD,Term 6,3.9,B,No,No,0.66,96% probability H0 is true,Integration by parts,4,3,2,5,2,5,3,4,5,3,7,21,Yes,Yes,79.1
+STU_190,ISTD,Term 6,3.94,A/A+,No,No,0,Experiment failed,Binary tree traversal,3,1,3,3,2,1,4,2,2,3,3,51,No,Yes,31.1
+STU_191,ISTD,Term 8,4.19,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,2,2,4,3,2,4,4,3,5,15,35,No,Yes,82.0
+STU_192,EPD,Term 7,3.37,Exempted/Di,No,No,0.66,Experiment failed,Finding eigenvalues and eigenvectors,2,4,3,2,3,2,2,3,2,2,2,26,No,Yes,51.1
+STU_193,ESD,Term 6,3.99,A-,Yes,No,2,Experiment failed,Finding eigenvalues and eigenvectors,3,1,5,1,3,4,1,2,1,2,0,33,Yes,Yes,59.0
+STU_194,ESD,Term 6,3.7,B+,No,No,0.66,Not significant (fail to reject H0),Binary tree traversal,2,4,4,3,2,3,4,3,4,4,4,32,No,Yes,45.8
+STU_195,ISTD,Term 8,5.18,A/A+,Yes,No,Error,Statistically significant (reject H0),Calculating the derivative,4,3,3,1,3,3,4,5,3,4,7,73,No,Yes,91.8
+STU_196,ISTD,Term 6,4.0,B,No,No,0,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,5,1,5,3,5,1,5,2,3,3,4,58,Yes,No,59.7
+STU_197,ISTD,Term 6,4.28,A-,Yes,No,1,Not significant (fail to reject H0),Binary tree traversal,1,2,3,3,3,3,4,4,4,4,8,24,Yes,Yes,56.5
+STU_198,DAI,Term 6,3.76,B+,No,No,0,Statistically significant (reject H0),Calculating the derivative,4,1,3,3,4,1,3,4,4,4,4,34,Yes,Yes,61.2
+STU_199,EPD,Term 6,4.27,B+,Yes,No,1,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,2,3,3,2,2,5,5,3,5,12,,Yes,Yes,89.6
+STU_200,ISTD,Term 7,4.22,A/A+,No,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,3,2,2,2,3,2,3,4,5,2,6,10,Yes,Yes,76.7
+STU_201,ASD,Term 6,4.33,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,5,2,4,1,5,3,3,2,3,5,4,14,Yes,Yes,63.8
+STU_202,ISTD,Term 7,4.47,Exempted/Di,Yes,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,4,3,4,2,2,4,5,3,4,5,9,34,No,Yes,81.4
+STU_203,ISTD,Term 6,4.42,A-,Yes,No,2,96% probability H0 is true,Integration by parts,2,4,2,4,1,5,3,3,3,3,9,61,No,Yes,65.1
+STU_204,ESD,Term 6,3.98,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,5,2,5,3,4,3,4,2,3,3,72,No,No,74.4
+STU_205,ISTD,Term 6,3.86,B+,No,Yes,Error,Statistically significant (reject H0),Integration by parts,3,4,2,1,3,2,3,4,2,4,7,26,Yes,Yes,72.8
+STU_206,EPD,Term 7,3.74,A/A+,No,No,2,Experiment failed,Binary tree traversal,3,3,4,3,4,5,2,1,3,4,7,1,No,Yes,55.8
+STU_207,ISTD,Term 8,4.28,A/A+,Yes,No,0.66,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,3,3,4,4,3,3,4,3,3,5,37,Yes,Yes,74.9
+STU_208,ESD,Term 6,3.55,B,No,No,1,Statistically significant (reject H0),Calculating the derivative,2,3,3,4,5,4,3,3,3,3,5,27,Yes,No,56.5
+STU_209,ESD,Term 6,4.16,A/A+,Yes,No,Error,Experiment failed,Integration by parts,1,4,2,3,3,3,1,3,3,2,8,46,No,Yes,57.5
+STU_210,EPD,Term 6,3.92,C+ or lower,No,Yes,2,Not significant (fail to reject H0),Calculating the derivative,3,4,1,4,3,3,2,2,2,1,8,50,Yes,Yes,66.2
+STU_211,ASD,Term 7,4.84,A/A+,Yes,No,Error,Experiment failed,Calculating the derivative,3,4,2,3,3,3,5,3,4,4,7,30,No,Yes,79.2
+STU_212,ASD,Term 8,4.37,A/A+,Yes,No,0.66,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,5,2,3,4,4,3,3,5,2,3,8,37,No,Yes,72.5
+STU_213,ISTD,Term 6,4.58,A/A+,Yes,No,2,Experiment failed,Binary tree traversal,4,1,4,1,4,3,5,5,4,4,4,,No,Yes,58.3
+STU_214,ISTD,Term 6,4.54,A/A+,Yes,Yes,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,2,4,4,5,1,3,3,3,5,3,38,Yes,Yes,69.9
+STU_215,EPD,Term 6,4.06,A/A+,No,No,1,Not significant (fail to reject H0),Calculating the derivative,4,3,3,3,3,4,2,4,2,2,6,50,Yes,Yes,68.4
+STU_216,ISTD,Term 6,3.36,B-,Yes,Yes,1,Statistically significant (reject H0),Binary tree traversal,1,5,1,4,1,4,3,4,2,3,11,42,No,Yes,76.6
+STU_217,ISTD,Term 7,3.28,B,No,No,Error,Experiment failed,Binary tree traversal,5,1,4,4,3,2,2,2,2,1,3,14,Yes,Yes,31.4
+STU_218,ISTD,Term 7,3.66,B+,Yes,Yes,0,Statistically significant (reject H0),Calculating the derivative,1,5,2,4,1,4,2,3,2,2,11,56,Yes,Yes,77.6
+STU_219,ESD,Term 6,4.48,A/A+,No,No,Error,96% probability H0 is true,Calculating the derivative,3,3,5,3,3,4,1,4,3,3,3,46,No,Yes,57.1
+STU_220,ASD,Term 7,4.54,A/A+,Yes,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,4,4,4,3,4,3,3,3,3,4,7,21,Yes,Yes,83.7
+STU_221,ESD,Term 6,4.67,A-,Yes,No,2,Experiment failed,Integration by parts,3,3,2,2,3,3,4,5,1,3,4,,Yes,Yes,77.0
+STU_222,ISTD,Term 6,4.43,A/A+,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,3,2,4,2,4,5,4,5,4,3,5,33,No,Yes,79.9
+STU_223,ASD,Term 6,4.14,A-,Yes,No,0.66,Statistically significant (reject H0),Integration by parts,5,1,5,1,5,1,4,3,3,2,1,14,No,No,55.5
+STU_224,EPD,Term 7,4.38,A/A+,No,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,3,2,2,3,3,4,5,2,5,4,5,55,Yes,Yes,69.8
+STU_225,ESD,Term 6,3.81,B+,Yes,No,0,96% probability H0 is true,Finding eigenvalues and eigenvectors,4,1,5,1,4,1,2,3,2,3,2,51,No,No,67.1
+STU_226,EPD,Term 8,3.68,B+,No,No,2,96% probability H0 is true,Binary tree traversal,3,2,4,4,4,5,1,2,1,2,6,38,Yes,Yes,51.9
+STU_227,DAI,Term 6,4.31,A/A+,No,No,Error,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,4,1,5,3,4,3,2,1,1,1,0,54,No,Yes,51.7
+STU_228,DAI,Term 6,4.13,B+,No,No,Error,Experiment failed,Calculating the derivative,3,2,5,2,4,2,3,2,2,1,5,44,No,Yes,52.3
+STU_229,ESD,Term 6,3.64,B,No,No,1,Statistically significant (reject H0),Binary tree traversal,4,3,3,3,1,4,4,5,5,4,,55,Yes,Yes,61.7
+STU_230,EPD,Term 7,2.98,B-,Yes,No,Error,Experiment failed,Integration by parts,2,5,1,3,2,5,3,4,2,3,12,27,Yes,Yes,68.4
+STU_231,EPD,Term 7,4.41,A/A+,No,No,0,Not significant (fail to reject H0),Finding eigenvalues and eigenvectors,5,2,5,1,4,3,3,2,4,2,5,22,Yes,Yes,62.0
+STU_232,ISTD,Term 6,,B,No,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,2,5,3,3,3,4,3,5,4,4,,Yes,Yes,64.3
+STU_233,DAI,Term 6,5.23,A/A+,Yes,Yes,Error,Statistically significant (reject H0),Binary tree traversal,2,4,1,4,3,4,4,4,3,4,6,14,No,Yes,75.7
+STU_234,ASD,Term 6,4.02,B+,Yes,No,2,Statistically significant (reject H0),Calculating the derivative,1,3,1,3,3,5,3,5,4,2,13,29,Yes,Yes,65.6
+STU_235,ISTD,Term 8,4.3,A-,No,No,2,96% probability H0 is true,Finding eigenvalues and eigenvectors,2,3,2,5,2,2,4,5,5,4,10,47,No,Yes,76.8
+STU_236,ESD,Term 8,3.92,B,No,No,Error,96% probability H0 is true,Integration by parts,3,2,1,3,2,3,2,2,2,2,11,,No,Yes,65.1
+STU_237,DAI,Term 6,4.17,B+,Yes,No,Error,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,1,4,1,4,3,3,3,2,5,5,74,Yes,Yes,72.8
+STU_238,ISTD,Term 7,3.78,A/A+,No,Yes,0,96% probability H0 is true,Finding eigenvalues and eigenvectors,2,1,5,3,3,1,1,4,3,4,8,35,No,Yes,77.7
+STU_239,ISTD,Term 7,3.74,A/A+,Yes,No,2,Statistically significant (reject H0),Calculating the derivative,2,3,4,2,4,3,2,1,3,2,5,9,Yes,Yes,71.7
+STU_240,ISTD,Term 6,3.9,A-,Yes,No,2,Statistically significant (reject H0),Finding eigenvalues and eigenvectors,4,3,4,3,5,1,5,3,5,4,6,124,No,Yes,68.8
