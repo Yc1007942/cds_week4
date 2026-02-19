@@ -1,4 +1,4 @@
-def get_at_risk_students(df, predicted_score = 50):
+def get_at_risk_students(df, predicted_score = 50, column = "final_course_score"):
     # # preprocess new data 
     # X_new, _ = prepare_data(data_df)
 
@@ -21,7 +21,7 @@ def get_at_risk_students(df, predicted_score = 50):
     # df['predicted_score'] = predictions.numpy().flatten()
 
     # filter, at-risk if pred score < 50
-    at_risk_df = df[df['final_course_score'] < predicted_score].copy()
+    at_risk_df = df[df[column] < predicted_score].copy()
     print(at_risk_df.shape[0], "students at risk of scoring below", predicted_score)
     print("filtered")
 
